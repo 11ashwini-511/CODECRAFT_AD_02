@@ -22,8 +22,6 @@ Features of the To-Do List App
 
 4. Delete Task: Users can remove specific tasks from the list by selecting their corresponding number. The app confirms the successful deletion of the task.
 
-   **output**:
-
 
 6. Clear All Tasks: For those who wish to start fresh, the app offers an option to clear the entire to-do list after user confirmation.
 
@@ -34,3 +32,5 @@ Features of the To-Do List App
 How the App Works
 
 The app starts by presenting a menu to the user. The menu includes all available options, from displaying tasks to exiting the application. The user selects an option by entering the corresponding number. The app then performs the requested action, whether it’s adding a new task, editing an existing one, or clearing the list.
+
+**OUTPUT**:Screenshot_20250107-175935_Chrome.png
