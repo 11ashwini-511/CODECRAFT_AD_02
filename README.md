@@ -22,11 +22,13 @@ Features of the To-Do List App
 
 4. Delete Task: Users can remove specific tasks from the list by selecting their corresponding number. The app confirms the successful deletion of the task.
 
+   **output**:
 
-5. Clear All Tasks: For those who wish to start fresh, the app offers an option to clear the entire to-do list after user confirmation.
+
+6. Clear All Tasks: For those who wish to start fresh, the app offers an option to clear the entire to-do list after user confirmation.
 
 
-6. Exit: The app provides an option to terminate the program, ensuring a clean exit from the command-line interface.
+7. Exit: The app provides an option to terminate the program, ensuring a clean exit from the command-line interface.
 
 
 How the App Works
